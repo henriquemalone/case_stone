@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-case-study-322621",
+  "private_key_id": "dd48c388547ec150b982e6574c8f5c0c49e81dd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCs8L/fUejlPims\n3Q9JcPJtYp4xHJ2urcBdwmChbq64g0ahEYd3FZ4aYBtVkGl1YIuGBNBQWfWEEq9D\nrNpd7Ws/hHi9/5AD0OHMKKaFB2DSfLAkPLzUmnOa6aeHMToZxhklwyDfxto/3wkV\nIplc+L6jdPvU7Uqfw4+QUIffiwEhLHDR3oTZCAEf0d0ii/wDa2WPnGS2rUIcoy1u\nZhM2c7MH7WebcJDylM/H9PVZdTFBcqHHlXcbmVeAEHsgIUMB068ZWjZiUm1jHQ9i\n0nBHQDkvaNtkILMNg9CtOCJ32+Mod8CVzhaevijN1IPpDP+oIzOjHDa5Tc1eV9JZ\nor4lObS5AgMBAAECgf9rrFytg2A2dv2YBnw29mKkf0IbNVJM0xocm2kANfeSlGI6\ndITU5wRBvQZkMVrM5Hn6BVqRHlTo19W5IklEv/C/GztnEDbE1B36YjhnmulJ6x8V\nN9ggv15zsVuOiXs/kM/6+gJTGFEfj6+X+R1m03hP95Qo782UqwLiHl4IiR+q6l37\nlBAO0qs9HElHK6X3MOtHvJnHNok0Clz4l7YLZLQX0QEF/m6RQe4ee09iqBmfdqjb\nPXoomu2eozDtgysduuHuFfDcF9DZvOsdp7oIZ1Piu3NyhIwIxqyvUGes8YUrHK8M\npKBg6kdZlPjkB8sR+GYecE+yfk9jZ5Wkx1agn+sCgYEA01HT+BtE4y2s1od4DzOo\ndG6xbn6PhDEeMRVZa6frKUdsUY4VLE2thrLQvUlz5AypdA1lwh8cWPQXoibTghoy\n68elVjeg2fhHpzDCuuJ4VwPsJ32pDtS+x12D9W6ST7YGoSS8D0kb+hrD0FvX5upn\nvsN7Uf0YTQ5R1etMkZPW9kMCgYEA0YGOco55w0dbPMTRTLGAvYK7JcE0WQvgVuW/\nFsjPnN50FMriYVVc+717JzuxG4CeQGXYy/3fdCWy1qNn1SHKWJxxW5Hgw5pOgYEA\nKvbRp7S3JJOfiUev/+pyRPdqz9q3rFgB3QE+nf1CsB2Tpv13ESZheVoaL2SO6HSI\n4qh3X1MCgYAl38qf8zM7jFon8QvBnb6Zb6V5alGKncsNfQgT1Xq+YUC2tUJyOFHb\njH0BEAMnYmWUmTodurm377e0pkTOUqfBvnyRoVLA/lDJVGHyYNi0r81JnqoIMHUp\nAke+W1z50GQLyauzCaVsBBQIag2eI3EIrbySi0wps2FTd+K3TMoARQKBgQC0mqrh\ntlDhNrJAQKrtIleJBxmuAk/OM57BSmzgh1vyLxKCmiNtJNlzanSv7ZVP0CCcAzBR\nKhlnVthEj7kC0o5MtRBDkA3ikTL8EOjEIOG7YN5AecId5d6jDshTC7bYWAPeXj+8\n9UW1jI3gpJ6UZgwujJeatUG9eUJ4wXz/Z5sAYQKBgECcLslUYUdGZfcpPsWPvWf/\nspGOu8KQeBch+1PEjHQXIBFNy1BJrH190vgU7T+Ut9r6u9z2dHvkkonONgw4AVYo\n5zYivLeyyZkMKPmmaM1ALWz5gcTap+peOCFd//M2cF6Y+sQ//yGN3EQw6ugwG1Gi\nfOOd3XxEn4w34N9SgPre\n-----END PRIVATE KEY-----\n",
+  "client_email": "candidates-data-case-study@data-case-study-322621.iam.gserviceaccount.com",
+  "client_id": "106866752912469994699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/candidates-data-case-study%40data-case-study-322621.iam.gserviceaccount.com"
+}
